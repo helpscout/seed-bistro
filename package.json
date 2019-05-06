@@ -41,5 +41,8 @@
     "jshint": "^2.9.6",
     "mocha": "5.2.0",
     "seed-barista": "^1.1.1"
+  },
+  "devDependencies": {
+    "tar": "4.4.8"
   }
 }
