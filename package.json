@@ -43,6 +43,6 @@
     "seed-barista": "^1.1.1"
   },
   "devDependencies": {
-    "tar": "4.4.8"
+    "tar": "4.4.18"
   }
 }
